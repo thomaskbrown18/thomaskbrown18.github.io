@@ -1,11 +1,11 @@
 # Site settings
 author: Thomas Brown
-title: 
+title: My Journey as a Data Science Student
 header-img: img/home-bg.png
 email: thomaskbrown18@gmail.com
 copyright_name: Thomas Brown
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Flatiron School's Data Science Course
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  thomaskbrown18
