@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Guiding Microsoft into the Movie Industry"
-date:       2020-06-19 23:04:20 +0000
+date:       2020-06-19 19:04:21 -0400
 permalink:  guiding_microsoft_into_the_movie_industry
 ---
 
